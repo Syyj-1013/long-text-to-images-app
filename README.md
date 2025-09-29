@@ -1,6 +1,23 @@
 # 长文本转图片应用 📸
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Vue.js](https://img.shields.io/badge/Vue.js-3.x-green.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-red.svg)
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)
+
 一个智能的长文本转图片应用，能够将长文本内容转换为多张精美的图片，支持多种风格和智能内容分割。
+
+## 🌟 在线演示
+
+- **演示地址**：[点击体验](http://localhost:5173) (本地运行)
+- **API文档**：[Swagger UI](http://localhost:8000/docs) (本地API)
+
+## 📸 应用截图
+
+![应用演示](docs/demo-screenshot.svg)
+
+*长文本转图片应用主界面，支持智能文本分割和多种图片风格选择*
 
 ## ✨ 主要功能
 
@@ -23,7 +40,7 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/your-username/long-text-to-images-app.git
+git clone https://github.com/Syyj-1013/long-text-to-images-app.git
 cd long-text-to-images-app
 ```
 
@@ -141,13 +158,20 @@ docker-compose up -d
 
 ## 🤝 贡献指南
 
-欢迎提交Issue和Pull Request来帮助改进项目！
+欢迎提交Issue和Pull Request来帮助改进项目！详细的贡献指南请查看 [CONTRIBUTING.md](CONTRIBUTING.md)
 
 1. Fork 项目
 2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
 3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 开启 Pull Request
+
+## 📊 项目统计
+
+- ⭐ **Star数量**：如果觉得有用请给个Star
+- 🍴 **Fork数量**：欢迎Fork并改进
+- 📝 **Issues**：[查看问题](https://github.com/Syyj-1013/long-text-to-images-app/issues)
+- 🔀 **Pull Requests**：[查看PR](https://github.com/Syyj-1013/long-text-to-images-app/pulls)
 
 ## 📄 许可证
 
@@ -157,8 +181,10 @@ docker-compose up -d
 
 如有问题或建议，请通过以下方式联系：
 
-- 提交 [Issue](https://github.com/your-username/long-text-to-images-app/issues)
-- 发送邮件至：your-email@example.com
+- 📧 **GitHub Issues**：[提交问题](https://github.com/Syyj-1013/long-text-to-images-app/issues)
+- 💬 **讨论区**：[GitHub Discussions](https://github.com/Syyj-1013/long-text-to-images-app/discussions)
+- 🐛 **Bug报告**：使用Issue模板报告问题
+- 💡 **功能建议**：欢迎提出新功能想法
 
 ## 🙏 致谢
 
